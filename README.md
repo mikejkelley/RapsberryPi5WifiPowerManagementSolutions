@@ -15,4 +15,4 @@ Issue the following commands:
 `sudo systemctl enable wifi-powersave-off.service`  
 `sudo systemctl start wifi-powersave-off.service` 
 
-Your Pi 5 Wifi should now be returned to a reliably working state. 
+Your Pi 5 Wifi should now be returned to a reliably working state. If not, it may be a resource conflict. The solution is not expansive enough to qualify for a github repo, instead, check out my blog post here: https://cyberspacemanmike.com/2025/03/02/fixing-fullscreen-in-retropie/
