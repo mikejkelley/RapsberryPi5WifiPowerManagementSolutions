@@ -7,7 +7,6 @@ Alternately, you can always create the file with 'sudo nano /etc/systemd/system/
 Command the following:
 
 'sudo systemctl enable wifi-powermanagement-off'
-
 'sudo systemctl start wifi-powermanagement-off'
 
 Save wifi-powersave-off.service to /etc/systemd/system/wifi-powersave-off.service
